@@ -1,0 +1,5 @@
+parameters.py
+venv
+.idea
+__pycache__
+*.pyc
